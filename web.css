@@ -1,0 +1,347 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    min-height: 450px;
+    width: 100%;
+    background-image: url(image/backgi.jpg);
+    /*background-size: cover;*/
+}
+#row{
+height: 35px;
+width: 100%;
+background-color: rgb(46, 46, 88);
+ 
+}
+.row1{
+    height: 50px;
+    width: 50%;
+    /*background-color: rgb(218, 40, 34);*/
+    float: left;
+}
+.row2{
+    height: 50px;
+    width:20%;
+   /* background-color: green;*/
+    float: left;
+}
+.row3{
+    height: 50px;
+    width: 20%;
+    /*background-color: orange;*/
+    float: left;
+}
+.row4{
+    height: 50px;
+    width: 10%;
+    /*background-color: black;*/
+    float: left;
+} 
+span{
+   font-size: 22px; 
+  padding-top: 5px;
+  color: white;
+}
+#logo{
+    height: 50px;
+    width: 20%;
+    float: left;
+    opacity: 1;
+}
+#discripiton{
+    min-height: 350px;
+    width: 80%; 
+}
+#header{
+    height:35px;
+    width: 80%;
+    float: left;
+    /*background-color: aquamarine;*/
+}
+#h1{
+    height: 35px;
+    width: 10%;
+    float: left;
+}
+#h2{
+    height: 35px;
+    width: 10%;
+    float: left;
+}
+#h3{
+    height: 35px;
+    width: 10%;
+    float: left;
+}
+#h4{
+    height: 35px;
+    width: 20%;
+    float: left;
+}
+#h5{
+    height: 35px;
+    width: 10%;
+    float: left;
+}
+#h6{
+    height: 35px;
+    width: 10%;
+    float: left;
+}
+#h7{
+    height: 35px;
+    width: 5%;
+    float: left;
+}
+#h8{
+    height: 35px;
+    width: 7%;
+    float: left;
+}
+p{
+    color: white;
+}
+#logos{
+    height: 100px;
+    width: 800px;
+    margin-left: 25%;
+    margin-top: 50px;
+    
+}
+button:hover{
+    font-size: 15px;
+    transition: all ease 1s;
+}
+.information{
+    height: 60px;
+    width: 100%;
+    float: left;
+}
+.main{
+    min-height: 600px;
+    width: 100%;
+    background-color:white;
+}
+#first{
+    height: 500px;
+    width: 34%;
+    float: left;
+  /*  border-right: solid rgb(13, 158, 158);*/
+}
+#second{
+    height: 500px;
+    width: 35%;
+    float: left;
+    /*border-right: solid rgb(13, 158, 158);*/
+}
+#third{
+    height: 500px;
+    width: 30%;
+    float: left;
+}
+#f1{
+    height: 150px;
+    width: 100%;float: left;
+}
+a{
+    font-size: 25px;
+    margin-left: 35%;
+    color: rgb(13, 158, 158);
+}
+#scontainer{
+    min-height:300px;
+    width: 100%;
+    background-image: url(image/BACKIMAGE2.jpg);
+    background-size: cover ;
+    float: left;
+}
+#c1{
+    height: 50px;
+    width: 100%;
+}
+#c21{
+    height: 600px;
+    width: 50%;
+    float: left;
+}
+#c22{
+    height: 600px;
+    width: 50%;
+    float: left;
+}
+video{
+    height: 280px;
+    width: 500px;
+    border: 15px groove;
+    border-radius: 35px;
+    border-color: rgb(32, 31, 31);  
+    margin-left: 100px;
+}
+#tcon{
+    min-height: 500px;
+    width: 100%;
+    float: left;
+}
+#tc1{
+    min-height: 500px;
+    width: 50%;
+    /*background-color: bisque;*/
+    float: left;
+}
+#tc2{
+    min-height: 500px;
+    width: 50%;
+    float: left;
+   /* background-color: aquamarine;*/
+}
+#tc11{
+    height: 70px;
+    width: 100%;
+   /* background-color: aqua;*/
+}
+#tc12{
+    height: 430px;
+    width: 100%;
+    float: left;
+   /* background-color: darkgray;*/
+}
+#tc121{
+    min-height: 80%;
+    width: 33%;
+    float:left ;
+    /*background-color: salmon;*/
+}
+#tc122{
+    min-height: 80%;
+    width: 33%;
+    float:left ;
+    /*background-color:darkgreen;*/
+}
+#tc123{
+    min-height: 80%;
+    width: 34%;
+    float:left ;
+    /*background-color: saddlebrown;*/
+}
+#he1{
+    height: 50px;
+    width: 70%;
+    /*background-color:seagreen;*/
+   border-bottom: 3px solid rgb(13, 158, 158);
+   margin-left: 50%;
+}
+#he2{
+    height:200px;
+    width: 70%;
+   /* background-color:seagreen;*/
+   border-bottom: 3px solid rgb(13, 158, 158);
+   margin-left: 50%;
+   float: left;
+}
+#ha1{
+    height: 50px;
+    width: 70%;
+    /*background-color:seagreen;*/
+   border-bottom: 3px solid rgb(13, 158, 158);
+   margin-left: 50%; 
+}
+#ha2{
+    height: 200px;
+    width: 70%;
+    /*background-color:seagreen;*/
+   border-bottom: 3px solid rgb(13, 158, 158);
+   margin-left: 50%; 
+   float: left; 
+}
+#head1{
+    height: 50px;
+    width: 70%;
+    /*background-color:seagreen;*/
+   border-bottom: 3px solid rgb(13, 158, 158);
+   margin-left: 50%; 
+}
+#head2{
+    height: 200px;
+    width: 70%;
+    /*background-color:seagreen;*/
+   border-bottom: 3px solid rgb(13, 158, 158);
+   margin-left: 50%; 
+   float: left; 
+}
+#fcon{
+    min-height: 600px;
+    width: 100%;
+    background-color:white ;
+    float: left;
+}
+#fc1{
+    height: 50px;
+    width: 100%;
+    float: left;
+    /*background-color: aquamarine;*/
+}
+#fc2{
+    height: 400px;
+    width: 100%;
+    float: left;
+    /*background-color: rgb(127, 136, 255);*/
+}
+#fc2i{
+    height: 400px;
+    width: 50%;
+    float: left;
+    /*background-color: azure;*/
+}
+#fc2c{
+    height: 400px;
+    width: 50%;
+    float: left;
+    /*background-color: azure;*/
+}
+#lo{
+    height: 30%;
+    width: 100%;
+    float: left;
+}
+#lc{
+    height: 70%;
+    width: 100%;
+    float: left;
+}
+#loog{
+    min-height: 100px;
+    width: 100%;
+   /* background-color: blue;*/
+    float: left;
+    border-bottom: 3px solid rgb(13, 158, 158);
+}
+#footer{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(214, 208, 208);
+    float: left;
+}
+#fo1{
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+#fo2{
+    height:400px;
+    width: 25%;
+    float: left;
+    /*background-color: salmon;*/
+}
+#fo3{
+    height: 400px;
+    width: 25%;
+    float: left;
+    /*background-color: antiquewhite;*/
+}
+#fo4{
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+
